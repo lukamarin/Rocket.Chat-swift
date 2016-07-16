@@ -1,0 +1,21 @@
+codecov:
+  branch: develop
+  notify:
+    after_n_builds: null
+    require_ci_to_pass: yes
+    countdown: null
+    delay: null
+
+coverage:
+  precision: 2 
+  round: down
+  range: 70...100
+
+  status:
+    project: yes
+    patch: no
+    changes: no
+
+comment:
+  layout: "header, diff, changes"
+  behavior: default
