@@ -8,7 +8,7 @@ Rocket.Chat Native iOS Application
 
 ## Reporting an Issue
 
-[Github Issues](https://github.com/RocketChat/Rocket.Chat.iOS/issues) are used to track todos, bugs, feature requests, and more.
+[Github Issues](https://github.com/lukamarin/Rocket.Chat-swift/issues) are used to track todos, bugs, feature requests, and more.
 Please note we are still in very early stages development, so expect lots of bugs, etc. until we can reach a first alpha version.
 
 ## Setting up a development environment
